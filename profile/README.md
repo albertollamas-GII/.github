@@ -26,7 +26,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 	* [Primer cuatrimestre](#primer-cuatrimestre-2)
 	* [Segundo cuatrimestre](#segundo-cuatrimestre-2)
 * [Cuarto curso](#cuarto-curso)
-	* [Primer cuatrimestre](#primer-cuatrimestre-3)
+	* [Primer cuatrimestre](#primer-cuatrimestre-3)<br />
 	**_Aclaración:_** En el segundo cuatrimestre me he dedicado a realizar el TFG y prácticas de empresa por lo que no hay más asignaturas.
 
 ### Primer curso
@@ -85,7 +85,8 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 | [`FR`](https://github.com/albertollamas-GII/FR) | [**Fundamentos de Redes**](https://github.com/albertollamas-GII/FR) | Antonio Mora | ![C](https://img.shields.io/badge/-C-green) |
 | [`DDSI`](https://github.com/albertollamas-GII/DDSI) | [**Diseño y Desarrollo de Sistemas de Información**](https://github.com/albertollamas-GII/DDSI) | Francisco Cabrerizo Lorite | ![C](https://img.shields.io/badge/-C-green) |
 
-###### Segundo cuatrimestre (Mención Ingeniería del Software)
+##### Mención Ingeniería del Software
+###### Segundo cuatrimestre
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
@@ -97,7 +98,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 
 ### Cuarto curso
 
-###### Primer cuatrimestre (Mención Ingeniería del Software)
+###### Primer cuatrimestre
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
