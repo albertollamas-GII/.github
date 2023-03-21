@@ -57,7 +57,7 @@ Si no está alguna asignatura, o quieres aportar contenido, siempre puedes conta
 
 | Abbr. | Nombre de asignatura | Profesor | Fase |
 | --- | --- | --- | --- |
-| [`SCD`](https://github.com/albertollamas-GII/SCD) | [**Sistemas Concurrentes y Distribuidos**](https://github.com/albertollamas-GII/SCD) | | ![A](https://img.shields.io/badge/-A-red) |
+| [`SCD`](https://github.com/albertollamas-GII/SCD) | [**Sistemas Concurrentes y Distribuidos**](https://github.com/albertollamas-GII/SCD) | | ![C](https://img.shields.io/badge/-C-green) |
 | [`PDOO`](https://github.com/albertollamas-GII/PDOO) | [**Programación y Diseño Orientado a Objetos**](https://github.com/albertollamas-GII/PDOO) | Zoraida Callejas / Edo  | ![C](https://img.shields.io/badge/-C-green) |
 | [`EC`](https://github.com/albertollamas-GII/EC) | [**Estructura de Computadores**](https://github.com/albertollamas-GII/EC) | Baldomero | ![C](https://img.shields.io/badge/-C-green) |
 | [`ED`](https://github.com/albertollamas-GII/ED) | [**Estructuras de Datos**](https://github.com/albertollamas-GII/ED) | Rosa María Rodríguez Sanchéz | ![C](https://img.shields.io/badge/-C-green) |
